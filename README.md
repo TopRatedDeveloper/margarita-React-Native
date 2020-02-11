@@ -1,6 +1,3 @@
-<div align="center">
-  <a href="http://margarita.kiwi.com"><img src="./docs/assets/logo.png" alt="Margarita" title="Margarita" width="200" /></a>
-</div>
 <h1 align="center">Margarita</h1>
 <hr />
 <h4 align="center">⚠️ This project is not actively maintained ⚠️</h4>
@@ -14,15 +11,7 @@
 - **Web version**: https://kiwicom-margarita.netlify.com
 - Project in Expo: https://expo.io/@kiwicom-margarita-public/margarita-mobile
 
-**If you like this project**, please give us ⭐ on GitHub — it helps!
 
-<div align="center">
-  <img src="./docs/assets/screens/search.png" alt="Search" title="Search" width="250"/>
-  <img src="./docs/assets/screens/results.png" alt="Results" title="Results" width="250"/>
-  <img src="./docs/assets/screens/mmb.png" alt="Bookings" title="Bookings" width="250"/>
-</div>
-
-<img src="./docs/assets/mac.png" alt="Search" title="Search" />
 
 ## Devstack
 
@@ -57,17 +46,5 @@ More detailed info can be found in the [Features docs](https://kiwicom.github.io
 Full documentation for **Margarita** can be found on [kiwicom.github.io](https://kiwicom.github.io/margarita/docs/).
 
 ## How it works
-
-<img src="./docs/assets/schema.png" alt="Schema" title="Schema" />
-
-## Links
-
-- 🎮 [GraphQL Playground](https://p2kwd3i3a8.execute-api.eu-central-1.amazonaws.com/staging/graphql)
-- 🚀 [GraphQL Voyager](https://margarita-graphql-voyager.now.sh/)
-- 📘 [Storybook for Universal components](https://kiwicom-universal-components.netlify.com)
-- 🍸 [Margarita product page](http://margarita.kiwi.com)
-- 🥝 [Open source projects at Kiwi.com](https://github.com/kiwicom/)
-
-## License
 
 The code in this project is licensed under [MIT license](LICENSE). By contributing to Margarita, you agree that your contributions will be licensed under its MIT license.
